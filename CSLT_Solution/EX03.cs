@@ -1,10 +1,7 @@
 ﻿namespace CSLT_Solution
 {
-    internal class Program
+    internal class EX03
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+       
     }
 }
